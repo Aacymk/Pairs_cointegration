@@ -18,7 +18,7 @@ pip install -r requirements.txt
 
 ## Usage 
 Clone the repository:
-git clone https://github.com/yourusername/pairs-trading-adf.git
-cd pairs-trading-adf
+git clone https://github.com/Aacymk/Pairs_cointegration.git
+cd Pairs_cointegration
 
 Run the script: python pairs_cointegration.py
